@@ -462,6 +462,7 @@
 				3FFC0AF319554AB900A9F5B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FFC0AF419554AB900A9F5B2 /* Build configuration list for PBXNativeTarget "UnicodePlaygroundTests" */ = {
 			isa = XCConfigurationList;
@@ -470,6 +471,7 @@
 				3FFC0AF619554AB900A9F5B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
